@@ -1,7 +1,6 @@
 # app-dev
 My first repository 
 
-
 ## My Favorite movie
 
 ## The Pursuit of Happyness
